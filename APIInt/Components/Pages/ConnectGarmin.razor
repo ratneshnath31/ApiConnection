@@ -1,0 +1,16 @@
+@using APIInt.Services
+@using APIInt
+@page "/connect-garmin"
+
+@inject IGarminAuthService GarminAuth
+@inject NavigationManager Nav
+
+<button @onclick="BeginOAuth">Connect Garmin</button>
+
+@code {
+    private async Task BeginOAuth()
+    {
+        var url = await GarminAuth.GetAuthorizationUrlAsync();
+        Nav.NavigateTo(url, forceLoad: true);
+    }
+}

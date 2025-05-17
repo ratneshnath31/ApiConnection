@@ -1,3 +1,10 @@
+/Users/shicky/ApiConnection/APIInt/obj/Debug/net9.0/APIInt.csproj.AssemblyReference.cache
+/Users/shicky/ApiConnection/APIInt/obj/Debug/net9.0/APIInt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shicky/ApiConnection/APIInt/obj/Debug/net9.0/APIInt.AssemblyInfoInputs.cache
+/Users/shicky/ApiConnection/APIInt/obj/Debug/net9.0/APIInt.AssemblyInfo.cs
+/Users/shicky/ApiConnection/APIInt/obj/Debug/net9.0/APIInt.csproj.CoreCompileInputs.cache
+/Users/shicky/ApiConnection/APIInt/obj/Debug/net9.0/APIInt.MvcApplicationPartsAssemblyInfo.cache
+/Users/shicky/ApiConnection/APIInt/obj/Debug/net9.0/APIInt.sourcelink.json
 /Users/shicky/ApiConnection/APIInt/bin/Debug/net9.0/appsettings.Development.json
 /Users/shicky/ApiConnection/APIInt/bin/Debug/net9.0/appsettings.json
 /Users/shicky/ApiConnection/APIInt/bin/Debug/net9.0/APIInt.staticwebassets.runtime.json
@@ -7,11 +14,7 @@
 /Users/shicky/ApiConnection/APIInt/bin/Debug/net9.0/APIInt.runtimeconfig.json
 /Users/shicky/ApiConnection/APIInt/bin/Debug/net9.0/APIInt.dll
 /Users/shicky/ApiConnection/APIInt/bin/Debug/net9.0/APIInt.pdb
-/Users/shicky/ApiConnection/APIInt/obj/Debug/net9.0/APIInt.GeneratedMSBuildEditorConfig.editorconfig
-/Users/shicky/ApiConnection/APIInt/obj/Debug/net9.0/APIInt.AssemblyInfoInputs.cache
-/Users/shicky/ApiConnection/APIInt/obj/Debug/net9.0/APIInt.AssemblyInfo.cs
-/Users/shicky/ApiConnection/APIInt/obj/Debug/net9.0/APIInt.csproj.CoreCompileInputs.cache
-/Users/shicky/ApiConnection/APIInt/obj/Debug/net9.0/APIInt.MvcApplicationPartsAssemblyInfo.cache
+/Users/shicky/ApiConnection/APIInt/bin/Debug/net9.0/RestSharp.dll
 /Users/shicky/ApiConnection/APIInt/obj/Debug/net9.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
 /Users/shicky/ApiConnection/APIInt/obj/Debug/net9.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
 /Users/shicky/ApiConnection/APIInt/obj/Debug/net9.0/scopedcss/bundle/APIInt.styles.css
@@ -67,6 +70,7 @@
 /Users/shicky/ApiConnection/APIInt/obj/Debug/net9.0/staticwebassets.build.json.cache
 /Users/shicky/ApiConnection/APIInt/obj/Debug/net9.0/staticwebassets.development.json
 /Users/shicky/ApiConnection/APIInt/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/shicky/ApiConnection/APIInt/obj/Debug/net9.0/APIInt.csproj.Up2Date
 /Users/shicky/ApiConnection/APIInt/obj/Debug/net9.0/APIInt.dll
 /Users/shicky/ApiConnection/APIInt/obj/Debug/net9.0/refint/APIInt.dll
 /Users/shicky/ApiConnection/APIInt/obj/Debug/net9.0/APIInt.pdb

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DEEtEX383lc=",
+  "dgSpecHash": "cRwdgCZ2I8I=",
   "success": true,
   "projectFilePath": "/Users/shicky/ApiConnection/APIInt/APIInt.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/shicky/.nuget/packages/restsharp/112.1.0/restsharp.112.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

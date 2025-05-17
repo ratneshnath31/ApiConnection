@@ -1,0 +1,18 @@
+@using APIInt.Services
+@using APIInt
+@page "/garmin-callback"
+@inject IGarminAuthService GarminAuth
+@inject NavigationManager Nav
+
+<p>Finalizing connection…</p>
+
+@code {
+    [Parameter] public string oauth_token    { get; set; }
+    [Parameter] public string oauth_verifier { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        await GarminAuth.ExchangeAccessTokenAsync(oauth_token, oauth_verifier);
+        Nav.NavigateTo("/");  // or wherever makes sense
+    }
+}
