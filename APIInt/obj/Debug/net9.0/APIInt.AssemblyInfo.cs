@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIInt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9d78851f0a84ecf49667e2c71cc2abeb58db476")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIInt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIInt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
